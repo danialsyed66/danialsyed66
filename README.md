@@ -8,7 +8,7 @@
 
 </div>
 
-I'm a senior full-stack engineer at [MergeStack](https://mergestack.com) in Lahore. I build SaaS products for clients in oil & gas, insurance, freight logistics, retail and e-commerce, mostly ones with a lot of maps, data or AI in them.
+I'm a senior full-stack engineer at [MergeStack](https://www.mergestack.com/) in Lahore. I build SaaS products for clients in oil & gas, insurance, freight logistics, retail and e-commerce, mostly ones with a lot of maps, data or AI in them.
 
 Since 2022 I've been the top individual contributor on 19 of the 21 client repositories I've worked in at MergeStack, and the founding engineer on two of the platforms below, Sense and Pedant. I joined as an associate engineer and now lead builds and mentor the engineers on them.
 
